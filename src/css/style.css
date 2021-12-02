@@ -1,0 +1,1 @@
+.grid{display:grid;border:3px dashed #666;grid-template-columns:repeat(3, 500px);grid-template-rows:repeat(3, 500px)}.grid_item{border:1px solid black;padding:10px;color:white;background-color:green}
